@@ -14,8 +14,8 @@ You can install the released version of praiseme from [CRAN](https://CRAN.R-proj
 install.packages("praiseme")
 ```
 
-Example
--------
+Example of the 'praise(') function
+----------------------------------
 
 This is a basic example which shows you how to solve a common problem:
 
